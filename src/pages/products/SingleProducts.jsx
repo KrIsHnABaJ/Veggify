@@ -24,10 +24,7 @@ const SingleProducts = () => {
                 </picture>
                 <div className='px-8 '>
                     <h1 className='text-4xl mt-12 text-secondary'>{item.name}</h1>
-                    <p className='mt-6 '>An easy and quick dish, perfect for any meal. This classic 
-                        omlette is perfect for breakfast, lunch or dinner. It is a versatile dish that
-                        can be customized to suit your taste. You can add any vegetables, cheese or
-                        meat of your choice. It is a great way to use up leftover vegetables and meat.
+                    <p className='mt-6 '><span>{item?.more?.[0].source}</span>
                     </p>
 
                     <article className='bg-rose-50 mt-6 p-5 rounded-xl'>
