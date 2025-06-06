@@ -11,8 +11,8 @@ const Footer = () => {
         </div>
 
         <p className="mt-4 max-w-xs text-gray-500">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse non cupiditate quae nam
-          molestias.
+          We aim to foster a love for home cooking by promoting healthy, wholesome, plant-based meals.
+Join us in preserving culinary heritage while inspiring mindful eating habits.
         </p>
 
         <ul className="mt-8 flex gap-6">
