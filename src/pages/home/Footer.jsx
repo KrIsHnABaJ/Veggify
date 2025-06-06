@@ -198,7 +198,7 @@ Join us in preserving culinary heritage while inspiring mindful eating habits.
       </div>
     </div>
     <hr />
-    <p className="text-xs text-gray-500 text-center">&copy; 2022. Company Name. All rights reserved.</p>
+    <p className="text-xs text-gray-500 text-center">&copy; 2024. Company Name. All rights reserved.</p>
   </div>
 </footer>
 
