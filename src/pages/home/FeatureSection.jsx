@@ -1,5 +1,5 @@
 import React from 'react'
-import FeaturedImg from '../../assets/featured.webp'
+import FeaturedImg from '../../assets/featured.jpg'
 
 const FeatureSection = () => {
   return (
