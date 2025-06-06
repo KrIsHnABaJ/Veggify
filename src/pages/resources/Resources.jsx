@@ -39,9 +39,6 @@ const Resources = () => {
             <div className='container p-6 mx-auto space-y-8'>
                 <div className='space-y-2 text-center '>
                 <h2 className='text-3xl font-bold'>Required Pro Membership</h2>
-                <p className='text-sm mb-16 '>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, repellendus.
-                </p>
                 </div>
                 <div className='grid grid-cols-1 gap-x-4 gap-y-8 md:grid-cols-2 lg:grid-cols-4 md-8'>
                     {
