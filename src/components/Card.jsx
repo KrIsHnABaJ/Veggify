@@ -38,7 +38,7 @@ const Card = ({item}) => {
                             >{item?.category}</button>
                             <div className='flex items-center py-2 mt-6'>
                                 <GoClock />
-                                <span className='ml-1'>{item?.more?.[0].prep_time} </span>
+                                <span className='ml-1'>{item?.more?.[0].cook_time} </span>
                             </div>
                     </div>
                 </div>
